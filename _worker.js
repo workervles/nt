@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 const proxyListURL = 'https://raw.githubusercontent.com/Novantunn/crot/main/output.txt';
 const namaWeb = 'NOVAN TUNNEL'
-const telegramku = 'https://t.me/sampiiiiu'
+const telegramku = 'https://t.me/novanthekillz'
 const wildcards = [
   'ava.game.naver.com',
   'business.blibli.com',
